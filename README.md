@@ -45,8 +45,3 @@ Kennedy Space Center (KSC) LC-39A had the most successful launches among all sit
 Decision Tree Classifier was identified as the best algorithm for this binary classification task.
 
 
-• Orbits ES-L1, GEO, HEO, SSO, VLEO had the most success rate.
-
-• KSC LC-39A had the most successful launches of any sites.
-
-• The Decision tree classifier is the best machine learning algorithm for this task
